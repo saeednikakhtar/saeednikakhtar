@@ -23,8 +23,6 @@ A focused companion repository containing the firmware patch, modified C++ sourc
 
 [Firmware & technical documentation →](https://github.com/saeednikakhtar/rescue-core-submission)
 
-> RESCUE verification covers native software-in-the-loop simulation. It does not establish physical flight-controller or real-parachute qualification; test scope and remaining work are documented in the project.
-
 ## Technical focus
 
 - **Flight systems:** ArduPilot / ArduPlane, MAVLink, QGroundControl, Pixhawk / PX4 integration
