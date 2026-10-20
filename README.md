@@ -4,7 +4,7 @@
 
 I work across onboard software, flight-system integration and the tools that make aircraft behavior observable and reproducible. My projects span UAV safety, remote identification, telemetry and native flight simulation.
 
-[LinkedIn](https://www.linkedin.com/in/saeed-nikakhtar-725003132/) · [Robotics Innovation](https://robtk.ru/) · [VARDLYX / Orbita](https://robtk.com/files1/vardlyx-materials-ru.html?lang=en) · [Résumé](https://robtk.com/files1/vardlyx-files/Saeed_Nikakhtar_CV_EN.pdf)
+[LinkedIn](https://www.linkedin.com/in/saeed-nikakhtar-725003132/) · [Robotics Innovation](https://robtk.com/) · [VARDLYX / Orbita](https://robtk.com/files1/vardlyx-materials-ru.html?lang=en) · [Résumé](https://robtk.com/files1/vardlyx-files/Saeed_Nikakhtar_CV_EN.pdf)
 
 ## Selected work
 
